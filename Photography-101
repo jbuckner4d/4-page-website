@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="index.html">Photography</a>
+          </div>
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li ><a href="wedding.html">Wedding</a></li>
+            <li><a href="pets.html">Pets</a></li>
+            <li><a href="landscape.html">Landscape</a></li>
+          </ul>
+          <br>
+          <div>
+            <input type="text" placeholder="Search..">
+          </div>
+            
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="signup.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          </ul>
+        </div>
+      </nav>
+     
+      <div class="container">
+        <div class="jumbotron">
+          <h1>Photography 101 &trade;</h1>
+          <p>Specializing in wedding, portrait, landscape, we blend creativity with technical expertise to deliver stunning images that tell your unique story. Explore our portfolio and let us help you preserve the beauty of your most cherished moments.</p>
+        </div>
+        
+      </div>
+  
+      <div class="container">
+        <div class="row">
+            <div class="col"></col-md-12>
+                Welcome to Photography 101, where every moment is captured with precision and passion. Dive into our exclusive collection of stunning photographs, available through our subscription service. Whether you’re a photography enthusiast or a professional seeking inspiration, our curated galleries offer a visual feast that evolves monthly. Join our community today and enjoy unlimited access to high-resolution images, behind-the-scenes content, and expert tips to elevate your own photography skills. Let’s embark on this creative journey together! 📸✨    
+            </div> <!-- closing column -->
+            </div> <!-- closing row -->
+            </div> <!-- closing container -->
+
+    <br>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6"><img src="Photos/horse grazing.jpeg" style="width: 90%; "alt="white horse grazing in a pasture with mountians in the background">
+        <img src="Photos/mountian scene.jpeg" style="width: 90%;" alt="mountian background surrounding a body of water"></div>
+        <div class="col-md-6"><img src="Photos/married in the rain.jpeg" style="width: 90%;height: 200px;" alt="married couple under umbrella in the rain"> </style></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<body>
+   <div>
+    <br><br>
+    <a class="topnav">
+    <a href="#about">About</a>
+    <br>
+    <a href="#contact">Contact</a></div> 
+    <br><br>
+    
+ 
+
+
+</html>
